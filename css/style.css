@@ -1,6 +1,8 @@
-#abc{
-    background:aliceblue;
+body{
+    
 }
-.main-header{
-    background-image:url('C:\Users\Navneeth kumar\Documents\project\bs\img\bg.jpg');
+nav .nav-item{
+    padding: 1.5em;
+    padding-bottom: 3px;
+    padding-top: 3px;
 }
